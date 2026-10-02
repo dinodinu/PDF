@@ -1,13 +1,15 @@
-# VERIQTA EDUCATIONAL MATERIALS
-## PROPRIETARY COPYRIGHT AND RESTRICTED USE LICENCE
+VERIQTA EDUCATIONAL MATERIALS
+
+PROPRIETARY COPYRIGHT AND RESTRICTED USE LICENCE
 
 Copyright © 2026 VERIQTA. All rights reserved.
 
 Repository: https://github.com/veriqta/PDF
 
-**IMPORTANT: PUBLIC ACCESS DOES NOT CONSTITUTE PERMISSION TO REPRODUCE, REDISTRIBUTE, MODIFY, REPUBLISH, OR COMMERCIALLY EXPLOIT THE MATERIALS IN THIS REPOSITORY.**
+IMPORTANT: PUBLIC ACCESS DOES NOT CONSTITUTE PERMISSION TO REPRODUCE, REDISTRIBUTE, MODIFY, REPUBLISH, OR COMMERCIALLY EXPLOIT THE MATERIALS IN THIS REPOSITORY.
 
-### 1. OWNERSHIP AND COPYRIGHT
+
+1. OWNERSHIP AND COPYRIGHT
 
 All original educational materials published in this repository are proprietary intellectual property owned by VERIQTA or their respective identified copyright holders.
 
@@ -24,7 +26,8 @@ Protected materials include, without limitation:
 
 All rights not expressly granted remain reserved.
 
-### 2. LIMITED PERMITTED USE
+
+2. LIMITED PERMITTED USE
 
 VERIQTA permits individuals to access, read, and study publicly available materials in this repository for personal, non-commercial educational reference.
 
@@ -40,7 +43,8 @@ These permissions are limited, non-exclusive, non-transferable, and revocable to
 
 They do not transfer copyright, ownership, publishing rights, or commercial licensing rights.
 
-### 3. STRICTLY PROHIBITED ACTIVITIES
+
+3. STRICTLY PROHIBITED ACTIVITIES
 
 Except where expressly authorized in advance and in writing by VERIQTA, or permitted by applicable law, users must not:
 
@@ -70,7 +74,8 @@ Except where expressly authorized in advance and in writing by VERIQTA, or permi
 
 The absence of a purchase price, public GitHub availability, or an accessible download option does not constitute authorization for these activities.
 
-### 4. EDUCATIONAL ACCESS IS NOT AN OPEN-CONTENT LICENCE
+
+4. EDUCATIONAL ACCESS IS NOT AN OPEN-CONTENT LICENCE
 
 This repository is publicly accessible to support learning and professional development.
 
@@ -80,13 +85,15 @@ The materials are not offered under MIT, Apache 2.0, GPL, or Creative Commons li
 
 Free access does not mean unrestricted distribution, reproduction, modification, or commercial use.
 
-### 5. INSTITUTIONAL AND COMMERCIAL USE
+
+5. INSTITUTIONAL AND COMMERCIAL USE
 
 Universities, training providers, academies, educational platforms, businesses, publishers, and other organizations must obtain prior written authorization from VERIQTA before reproducing, hosting, distributing, adapting, or incorporating protected publications into institutional or commercial learning materials.
 
 This restriction does not prevent instructors or institutions from sharing direct links to the official public repository or engaging in uses independently permitted by applicable law.
 
-### 6. ARTIFICIAL INTELLIGENCE AND AUTOMATED CONTENT EXTRACTION
+
+6. ARTIFICIAL INTELLIGENCE AND AUTOMATED CONTENT EXTRACTION
 
 VERIQTA reserves its rights concerning automated extraction, dataset creation, and machine-learning use of its protected materials.
 
@@ -94,13 +101,15 @@ No additional permission is granted by this licence to systematically reproduce,
 
 Any authorization for such activities must be obtained separately in writing, subject to applicable law.
 
-### 7. ATTRIBUTION DOES NOT REPLACE PERMISSION
+
+7. ATTRIBUTION DOES NOT REPLACE PERMISSION
 
 Providing credit to VERIQTA does not independently authorize copying, redistribution, translation, modification, commercial exploitation, or republication.
 
 Users must obtain permission where required, regardless of whether the original source is acknowledged.
 
-### 8. QUOTATIONS AND STATUTORY EXCEPTIONS
+
+8. QUOTATIONS AND STATUTORY EXCEPTIONS
 
 Brief quotations may be used for commentary, criticism, review, scholarship, research, or other purposes permitted by applicable copyright law.
 
@@ -108,7 +117,8 @@ Appropriate attribution to VERIQTA and a link to the original source are request
 
 Nothing in this licence is intended to restrict lawful fair use, fair dealing, statutory educational exceptions, or other rights that cannot legally be excluded.
 
-### 9. THIRD-PARTY CONTENT AND CODE EXCEPTIONS
+
+9. THIRD-PARTY CONTENT AND CODE EXCEPTIONS
 
 This licence applies only to intellectual property owned or controlled by VERIQTA.
 
@@ -118,7 +128,8 @@ Code samples or software components accompanied by an expressly identified separ
 
 Where no separate licence exists, no additional software reuse rights are granted by this document.
 
-### 10. UNAUTHORIZED USE AND ENFORCEMENT
+
+10. UNAUTHORIZED USE AND ENFORCEMENT
 
 VERIQTA reserves the right to investigate suspected unauthorized reproduction, distribution, commercial exploitation, misrepresentation, or infringement of its protected materials.
 
@@ -131,7 +142,8 @@ Where appropriate and legally available, VERIQTA may:
 
 Nothing in this section guarantees a particular enforcement outcome or creates rights beyond those available under applicable law.
 
-### 11. NO WARRANTY
+
+11. NO WARRANTY
 
 All educational materials are provided on an "AS IS" and "AS AVAILABLE" basis, without warranties of any kind, to the extent permitted by applicable law.
 
@@ -139,7 +151,8 @@ Technical examples, commands, configurations, and engineering procedures are pro
 
 Users remain responsible for independently validating materials before applying them in production, commercial, security-sensitive, or regulated environments.
 
-### 12. PERMISSION REQUESTS
+
+12. PERMISSION REQUESTS
 
 Written authorization must be obtained before undertaking activities requiring additional permission under this licence.
 
@@ -159,13 +172,13 @@ Email: veriqta@gmail.com
 
 Official repository: https://github.com/veriqta/PDF
 
-### 13. RESERVATION OF RIGHTS
+
+13. RESERVATION OF RIGHTS
 
 No rights are granted by implication, estoppel, public availability, or silence beyond those expressly stated in this licence or independently provided by applicable law.
 
 All other rights remain expressly reserved.
 
----
 
 Copyright © 2026 VERIQTA.
 
@@ -173,3 +186,4 @@ ALL RIGHTS RESERVED.
 
 Unauthorized reproduction, redistribution, republication, modification, or commercial exploitation may constitute copyright infringement.
 
+END OF LICENCE
